@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+p {
+  width: 600px;
+  margin: auto;
+  text-align: center;
+}
+ul {
+  display: flex;
+  justify-content: center;
+}
+ul li {
+  list-style-type: none;
+}
+ul li a {
+  text-decoration: none;
+  padding: 10px;
+  margin: 10px;
+  color: blue;
+}
+ul li a:hover {
+  text-decoration: underline;
+}
+img {
+  display: block;
+  width: 500px;
+  margin: auto;
+}
